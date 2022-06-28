@@ -1,4 +1,7 @@
+<!-- 
 [![Thijs's GitHub stats](https://github-readme-stats.vercel.app/api?username=thijsjanzen&show_icons=true)](https://github.com/thijsjanzen/github-readme-stats)
+-->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thijsjanzen&hide=html,jupyter%20notebook,javascript&layout=compact&langs_count=10)
 
 
